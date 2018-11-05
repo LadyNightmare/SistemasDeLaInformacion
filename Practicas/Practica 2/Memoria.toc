@@ -1,0 +1,39 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\IeC {\'I}ndice general}{1}{Doc-Start}
+\contentsline {section}{\numberline {1}Plan de Trabajo}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Tareas}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Planificaci\IeC {\'o}n temporal}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Modelo de Calificaci\IeC {\'o}n}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Criterios funcionales}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Criterios no funcionales}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Descripci\IeC {\'o}n de la escala de ponderaci\IeC {\'o}n}{3}{subsection.2.3}
+\contentsline {section}{\numberline {3}Descripci\IeC {\'o}n y estudio de los softwares elegidos}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Softwares Propietarios}{3}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Sage 50 Cloud}{3}{subsubsection.3.1.1}
+\contentsline {paragraph}{Criterios funcionales:}{4}{section*.2}
+\contentsline {paragraph}{Criterios no funcionales:}{4}{section*.3}
+\contentsline {paragraph}{Evaluaci\IeC {\'o}n de Sage 50 Cloud}{5}{section*.4}
+\contentsline {subsubsection}{\numberline {3.1.2}ZFactura}{5}{subsubsection.3.1.2}
+\contentsline {paragraph}{Criterios funcionales:}{6}{section*.5}
+\contentsline {paragraph}{Criterios no funcionales:}{6}{section*.6}
+\contentsline {paragraph}{Evaluaci\IeC {\'o}n de ZFactura}{7}{section*.7}
+\contentsline {subsection}{\numberline {3.2}Softwares Libres}{8}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Odoo}{8}{subsubsection.3.2.1}
+\contentsline {paragraph}{Criterios funcionales:}{8}{section*.8}
+\contentsline {paragraph}{Criterios no funcionales:}{8}{section*.9}
+\contentsline {paragraph}{Evaluaci\IeC {\'o}n de Odoo}{9}{section*.10}
+\contentsline {subsection}{\numberline {3.3}Softwares SaaS}{10}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}GesPymes}{10}{subsubsection.3.3.1}
+\contentsline {paragraph}{Criterios funcionales:}{10}{section*.11}
+\contentsline {paragraph}{Criterios no funcionales:}{12}{section*.12}
+\contentsline {paragraph}{Evaluaci\IeC {\'o}n de GesPymes}{13}{section*.13}
+\contentsline {subsubsection}{\numberline {3.3.2}Galdon}{13}{subsubsection.3.3.2}
+\contentsline {paragraph}{Criterios funcionales:}{13}{section*.14}
+\contentsline {paragraph}{Criterios no funcionales:}{14}{section*.15}
+\contentsline {paragraph}{Evaluaci\IeC {\'o}n de Gald\IeC {\'o}n:\\}{23}{section*.16}
+\contentsline {subsection}{\numberline {3.4}Softwares de Movilidad}{25}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}RepCamp}{25}{subsubsection.3.4.1}
+\contentsline {paragraph}{Criterios funcionales:}{26}{section*.17}
+\contentsline {paragraph}{Criterios no funcionales:}{26}{section*.18}
+\contentsline {paragraph}{Evaluaci\IeC {\'o}n de Recamp}{27}{section*.19}
+\contentsline {section}{\numberline {4}Conclusiones}{27}{section.4}
