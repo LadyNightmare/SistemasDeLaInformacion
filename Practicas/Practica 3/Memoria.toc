@@ -1,0 +1,41 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\IeC {\'I}ndice general}{1}{Doc-Start}
+\contentsline {section}{\numberline {1}Plan de Trabajo}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Tareas}{3}{subsection.1.1}
+\contentsline {section}{\numberline {2}Introducci\IeC {\'o}n}{3}{section.2}
+\contentsline {section}{\numberline {3}Funcionalidad de prestashop}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Dashboard}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Pedidos}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Cat\IeC {\'a}logo}{5}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Categor\IeC {\'\i }as}{6}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Monitorizaci\IeC {\'o}n}{7}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Atributos y caracter\IeC {\'\i }sticas}{7}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Marcas y proveedores}{8}{subsubsection.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.5}Descuentos}{8}{subsubsection.3.3.5}
+\contentsline {subsubsection}{\numberline {3.3.6}Stock}{8}{subsubsection.3.3.6}
+\contentsline {subsection}{\numberline {3.4}Clientes}{8}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Servicio al Cliente}{8}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Mensajes del pedido}{10}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}Devoluciones}{10}{subsubsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.4}Estad\IeC {\'\i }sticas}{10}{subsubsection.3.4.4}
+\contentsline {subsection}{\numberline {3.5}M\IeC {\'o}dulos}{11}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Dise\IeC {\~n}o}{11}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Envio}{12}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}Pagos}{13}{subsubsection.3.5.3}
+\contentsline {subsubsection}{\numberline {3.5.4}Internacional}{13}{subsubsection.3.5.4}
+\contentsline {subsubsection}{\numberline {3.5.5}Configuraci\IeC {\'o}n}{15}{subsubsection.3.5.5}
+\contentsline {subsection}{\numberline {3.6}Creaci\IeC {\'o}n de la tienda}{15}{subsection.3.6}
+\contentsline {section}{\numberline {4}Relaci\IeC {\'o}n con la teor\IeC {\'\i }a}{20}{section.4}
+\contentsline {subsection}{\numberline {4.1}Control de acceso y seguridad}{20}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Personalizaci\IeC {\'o}n}{22}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Administraci\IeC {\'o}n de las b\IeC {\'u}squedas}{22}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Administraci\IeC {\'o}n de contenidos}{22}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Administraci\IeC {\'o}n de cat\IeC {\'a}logos}{25}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Pago y Compra}{26}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Administraci\IeC {\'o}n del flujo de trabajo}{27}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}Notificaci\IeC {\'o}n de eventos}{28}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}Colaboraci\IeC {\'o}n y negociaci\IeC {\'o}n}{28}{subsection.4.9}
+\contentsline {section}{\numberline {5}Personalizaci\IeC {\'o}n e integraci\IeC {\'o}n}{28}{section.5}
+\contentsline {subsection}{\numberline {5.1}Personalizaci\IeC {\'o}n}{28}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Integraci\IeC {\'o}n}{29}{subsection.5.2}
+\contentsline {section}{\numberline {6}Conclusiones}{30}{section.6}

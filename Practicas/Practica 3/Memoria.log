@@ -1,0 +1,1933 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  26 NOV 2018 23:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Memoria.tex
+(./Memoria.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip43
+\thanksmargin=\skip44
+\droptitle=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen105
+\Hy@linkcounter=\count87
+\Hy@pagecounter=\count88
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count89
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count90
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen106
+\Fld@menulength=\count91
+\Field@Width=\dimen107
+\Fld@charsize=\dimen108
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring ON on input line 6387.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count92
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count95
+\c@bookmark@seq@number=\count96
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count97
+\U@D=\dimen109
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count98
+)
+\es@quottoks=\toks17
+\es@quotdepth=\count99
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+   defining Unicode char U+301 (decimal 769)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen110
+\captionmargin@=\dimen111
+\captionwidth=\dimen112
+\caption@tempdima=\dimen113
+\caption@indent=\dimen114
+\caption@parindent=\dimen115
+\caption@hangindent=\dimen116
+)
+\c@ContinuedFloat=\count100
+Package caption Info: hyperref package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count101
+\c@subtable=\count102
+)
+   defining Unicode char U+202F (decimal 8239)
+ (./Memoria.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
+\openout1 = `Memoria.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen117
+\scratchbox=\box26
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen118
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box27
+Package hyperref Info: Link coloring ON on input line 24.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count109
+)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+
+(./Memoria.out) (./Memoria.out)
+\@outlinefile=\write3
+\openout3 = `Memoria.out'.
+
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 30.
+<images/prestashop.png, id=164, 1003.75pt x 602.25pt>
+File: images/prestashop.png Graphic file (type png)
+<use images/prestashop.png>
+Package pdftex.def Info: images/prestashop.png  used on input line 32.
+(pdftex.def)             Requested size: 401.49289pt x 240.89572pt.
+
+Overfull \hbox (56.49289pt too wide) in paragraph at lines 32--33
+[]  
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/prestashop.png>] 
+(./Memoria.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write4
+\openout4 = `Memoria.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \newpage
+              [1] [2]
+<images/pedidos.png, id=224, 170.6375pt x 139.52126pt>
+File: images/pedidos.png Graphic file (type png)
+<use images/pedidos.png>
+Package pdftex.def Info: images/pedidos.png  used on input line 73.
+(pdftex.def)             Requested size: 68.25378pt x 55.8075pt.
+ [3 <./images/pedidos.png>]
+<images/facturas.png, id=231, 513.92pt x 183.68625pt>
+File: images/facturas.png Graphic file (type png)
+<use images/facturas.png>
+Package pdftex.def Info: images/facturas.png  used on input line 79.
+(pdftex.def)             Requested size: 411.13655pt x 146.94917pt.
+
+Overfull \hbox (66.13655pt too wide) in paragraph at lines 79--80
+ [] 
+ []
+
+<images/facturas2.png, id=232, 513.92pt x 205.76875pt>
+File: images/facturas2.png Graphic file (type png)
+<use images/facturas2.png>
+Package pdftex.def Info: images/facturas2.png  used on input line 86.
+(pdftex.def)             Requested size: 411.13655pt x 164.6152pt.
+
+Overfull \hbox (66.13655pt too wide) in paragraph at lines 86--87
+ [] 
+ []
+
+[4 <./images/facturas.png> <./images/facturas2.png>]
+<images/catalogo.png, id=237, 146.5475pt x 207.77625pt>
+File: images/catalogo.png Graphic file (type png)
+<use images/catalogo.png>
+Package pdftex.def Info: images/catalogo.png  used on input line 94.
+(pdftex.def)             Requested size: 117.23813pt x 166.2212pt.
+<images/ejemplo.png, id=238, 513.92pt x 205.76875pt>
+File: images/ejemplo.png Graphic file (type png)
+<use images/ejemplo.png>
+Package pdftex.def Info: images/ejemplo.png  used on input line 98.
+(pdftex.def)             Requested size: 411.13655pt x 164.6152pt.
+
+Overfull \hbox (66.13655pt too wide) in paragraph at lines 98--99
+ [] 
+ []
+
+<images/paquete.png, id=239, 1040.88875pt x 569.12625pt>
+File: images/paquete.png Graphic file (type png)
+<use images/paquete.png>
+Package pdftex.def Info: images/paquete.png  used on input line 104.
+(pdftex.def)             Requested size: 416.34813pt x 227.64647pt.
+
+Overfull \hbox (71.34813pt too wide) in paragraph at lines 104--105
+ [] 
+ []
+
+[5 <./images/catalogo.png> <./images/ejemplo.png>]
+<images/categorias.png, id=245, 955.57pt x 607.26875pt>
+File: images/categorias.png Graphic file (type png)
+<use images/categorias.png>
+Package pdftex.def Info: images/categorias.png  used on input line 112.
+(pdftex.def)             Requested size: 382.22122pt x 242.9032pt.
+
+Overfull \hbox (37.22122pt too wide) in paragraph at lines 112--113
+ [] 
+ []
+
+[6 <./images/paquete.png> <./images/categorias.png>]
+<images/monitoring.png, id=253, 939.51pt x 430.60875pt>
+File: images/monitoring.png Graphic file (type png)
+<use images/monitoring.png>
+Package pdftex.def Info: images/monitoring.png  used on input line 120.
+(pdftex.def)             Requested size: 375.79733pt x 172.24043pt.
+
+Overfull \hbox (30.79733pt too wide) in paragraph at lines 120--121
+ [] 
+ []
+
+<images/atributos.png, id=254, 678.535pt x 271.0125pt>
+File: images/atributos.png Graphic file (type png)
+<use images/atributos.png>
+Package pdftex.def Info: images/atributos.png  used on input line 128.
+(pdftex.def)             Requested size: 271.40918pt x 108.40306pt.
+[7 <./images/monitoring.png> <./images/atributos.png>]
+<images/stock.png, id=261, 954.56625pt x 259.97125pt>
+File: images/stock.png Graphic file (type png)
+<use images/stock.png>
+Package pdftex.def Info: images/stock.png  used on input line 144.
+(pdftex.def)             Requested size: 381.81973pt x 103.98665pt.
+
+Overfull \hbox (36.81973pt too wide) in paragraph at lines 144--145
+ [] 
+ []
+
+<images/customers.png, id=262, 171.64125pt x 83.31125pt>
+File: images/customers.png Graphic file (type png)
+<use images/customers.png>
+Package pdftex.def Info: images/customers.png  used on input line 152.
+(pdftex.def)             Requested size: 68.99895pt x 33.49043pt.
+<images/cliente.png, id=263, 581.17125pt x 204.765pt>
+File: images/cliente.png Graphic file (type png)
+<use images/cliente.png>
+Package pdftex.def Info: images/cliente.png  used on input line 155.
+(pdftex.def)             Requested size: 241.49895pt x 85.08836pt.
+[8 <./images/stock.png> <./images/customers.png> <./images/cliente.png>]
+<images/cuse.png, id=272, 492.84125pt x 184.69pt>
+File: images/cuse.png Graphic file (type png)
+<use images/cuse.png>
+Package pdftex.def Info: images/cuse.png  used on input line 166.
+(pdftex.def)             Requested size: 295.70702pt x 110.81483pt.
+<images/opciones.png, id=273, 792.9625pt x 696.6025pt>
+File: images/opciones.png Graphic file (type png)
+<use images/opciones.png>
+Package pdftex.def Info: images/opciones.png  used on input line 172.
+(pdftex.def)             Requested size: 317.17938pt x 278.63606pt.
+
+[9 <./images/cuse.png> <./images/opciones.png>]
+<images/mensajes.png, id=280, 532.99126pt x 123.46124pt>
+File: images/mensajes.png Graphic file (type png)
+<use images/mensajes.png>
+Package pdftex.def Info: images/mensajes.png  used on input line 180.
+(pdftex.def)             Requested size: 319.79723pt x 74.0773pt.
+<images/stats.png, id=281, 888.31876pt x 759.83875pt>
+File: images/stats.png Graphic file (type png)
+<use images/stats.png>
+Package pdftex.def Info: images/stats.png  used on input line 192.
+(pdftex.def)             Requested size: 266.49768pt x 227.95337pt.
+ [10 <./images/mensajes.png> <./images/stats.png>]
+<images/modulos.png, id=288, 866.23625pt x 507.8975pt>
+File: images/modulos.png Graphic file (type png)
+<use images/modulos.png>
+Package pdftex.def Info: images/modulos.png  used on input line 200.
+(pdftex.def)             Requested size: 346.48836pt x 203.1554pt.
+
+Overfull \hbox (1.48836pt too wide) in paragraph at lines 200--201
+ [] 
+ []
+
+<images/diseno.png, id=289, 742.775pt x 510.90875pt>
+File: images/diseno.png Graphic file (type png)
+<use images/diseno.png>
+Package pdftex.def Info: images/diseno.png  used on input line 208.
+(pdftex.def)             Requested size: 445.66843pt x 306.5476pt.
+
+Overfull \hbox (100.66843pt too wide) in paragraph at lines 208--209
+ [] 
+ []
+
+[11 <./images/modulos.png>]
+<images/envio.png, id=295, 794.97pt x 183.68625pt>
+File: images/envio.png Graphic file (type png)
+<use images/envio.png>
+Package pdftex.def Info: images/envio.png  used on input line 220.
+(pdftex.def)             Requested size: 317.98236pt x 73.47318pt.
+ [12 <./images/diseno.png>]
+<images/payment.png, id=303, 441.65pt x 290.08376pt>
+File: images/payment.png Graphic file (type png)
+<use images/payment.png>
+Package pdftex.def Info: images/payment.png  used on input line 228.
+(pdftex.def)             Requested size: 264.99203pt x 174.05159pt.
+<images/inter.png, id=304, 169.63374pt x 116.435pt>
+File: images/inter.png Graphic file (type png)
+<use images/inter.png>
+Package pdftex.def Info: images/inter.png  used on input line 236.
+(pdftex.def)             Requested size: 137.9979pt x 94.724pt.
+
+Underfull \hbox (badness 5787) in paragraph at lines 239--240
+[]\OT1/cmr/m/n/10 Funci^^Son pa-ra es-ta-ble-cer los
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 239--240
+\OT1/cmr/m/n/10 ajus-tes in-ter-na-cio-na-les de la
+ []
+
+<images/zona.png, id=305, 724.7075pt x 536.0025pt>
+File: images/zona.png Graphic file (type png)
+<use images/zona.png>
+Package pdftex.def Info: images/zona.png  used on input line 244.
+(pdftex.def)             Requested size: 434.82785pt x 321.60397pt.
+
+Overfull \hbox (89.82785pt too wide) in paragraph at lines 244--245
+ [] 
+ []
+
+[13 <./images/envio.png> <./images/payment.png> <./images/inter.png>]
+<images/lista.png, id=314, 939.51pt x 430.60875pt>
+File: images/lista.png Graphic file (type png)
+<use images/lista.png>
+Package pdftex.def Info: images/lista.png  used on input line 248.
+(pdftex.def)             Requested size: 375.79733pt x 172.24043pt.
+
+Overfull \hbox (30.79733pt too wide) in paragraph at lines 248--249
+ [] 
+ []
+
+[14 <./images/zona.png> <./images/lista.png>]
+<images/conf.png, id=321, 730.73pt x 494.84875pt>
+File: images/conf.png Graphic file (type png)
+<use images/conf.png>
+Package pdftex.def Info: images/conf.png  used on input line 257.
+(pdftex.def)             Requested size: 438.44138pt x 296.91154pt.
+
+Overfull \hbox (93.44138pt too wide) in paragraph at lines 257--258
+ [] 
+ []
+
+<images/order.jpg, id=322, 994.68387pt x 459.26419pt>
+File: images/order.jpg Graphic file (type jpg)
+<use images/order.jpg>
+Package pdftex.def Info: images/order.jpg  used on input line 267.
+(pdftex.def)             Requested size: 397.8665pt x 183.70241pt.
+
+Overfull \hbox (52.8665pt too wide) in paragraph at lines 267--268
+ [] 
+ []
+
+[15 <./images/conf.png>]
+<images/order2.jpg, id=328, 994.68387pt x 479.4687pt>
+File: images/order2.jpg Graphic file (type jpg)
+<use images/order2.jpg>
+Package pdftex.def Info: images/order2.jpg  used on input line 271.
+(pdftex.def)             Requested size: 397.8665pt x 191.78407pt.
+
+Overfull \hbox (52.8665pt too wide) in paragraph at lines 271--272
+ [] 
+ []
+
+<images/order3.jpg, id=329, 994.68387pt x 487.23967pt>
+File: images/order3.jpg Graphic file (type jpg)
+<use images/order3.jpg>
+Package pdftex.def Info: images/order3.jpg  used on input line 275.
+(pdftex.def)             Requested size: 397.8665pt x 194.89241pt.
+
+Overfull \hbox (52.8665pt too wide) in paragraph at lines 275--276
+ [] 
+ []
+
+[16 <./images/order.jpg> <./images/order2.jpg>]
+<images/order4.jpg, id=335, 994.68387pt x 462.37257pt>
+File: images/order4.jpg Graphic file (type jpg)
+<use images/order4.jpg>
+Package pdftex.def Info: images/order4.jpg  used on input line 281.
+(pdftex.def)             Requested size: 397.8665pt x 184.94574pt.
+
+Overfull \hbox (52.8665pt too wide) in paragraph at lines 281--282
+ [] 
+ []
+
+<images/order5.jpg, id=336, 994.68387pt x 451.49323pt>
+File: images/order5.jpg Graphic file (type jpg)
+<use images/order5.jpg>
+Package pdftex.def Info: images/order5.jpg  used on input line 287.
+(pdftex.def)             Requested size: 397.8665pt x 180.59409pt.
+
+Overfull \hbox (52.8665pt too wide) in paragraph at lines 287--288
+ [] 
+ []
+
+[17 <./images/order3.jpg> <./images/order4.jpg>]
+<images/order6.jpg, id=341, 994.68387pt x 436.7284pt>
+File: images/order6.jpg Graphic file (type jpg)
+<use images/order6.jpg>
+Package pdftex.def Info: images/order6.jpg  used on input line 293.
+(pdftex.def)             Requested size: 397.8665pt x 174.68826pt.
+
+Overfull \hbox (52.8665pt too wide) in paragraph at lines 293--294
+ [] 
+ []
+
+<images/order7.jpg, id=342, 994.68387pt x 382.33162pt>
+File: images/order7.jpg Graphic file (type jpg)
+<use images/order7.jpg>
+Package pdftex.def Info: images/order7.jpg  used on input line 299.
+(pdftex.def)             Requested size: 397.8665pt x 152.92993pt.
+
+Overfull \hbox (52.8665pt too wide) in paragraph at lines 299--300
+ [] 
+ []
+
+[18 <./images/order5.jpg> <./images/order6.jpg>]
+<images/order8.jpg, id=348, 651.44789pt x 330.81339pt>
+File: images/order8.jpg Graphic file (type jpg)
+<use images/order8.jpg>
+Package pdftex.def Info: images/order8.jpg  used on input line 305.
+(pdftex.def)             Requested size: 260.57454pt x 132.323pt.
+<images/order9.jpg, id=349, 651.44789pt x 312.49141pt>
+File: images/order9.jpg Graphic file (type jpg)
+<use images/order9.jpg>
+Package pdftex.def Info: images/order9.jpg  used on input line 311.
+(pdftex.def)             Requested size: 260.57454pt x 124.99434pt.
+<images/order10.jpg, id=350, 651.44789pt x 330.81339pt>
+File: images/order10.jpg Graphic file (type jpg)
+<use images/order10.jpg>
+Package pdftex.def Info: images/order10.jpg  used on input line 317.
+(pdftex.def)             Requested size: 260.57454pt x 132.323pt.
+ [19 <./images/order7.jpg> <./images/order8.jpg> <./images/order9.jpg>]
+<images/autenticacion.png, id=355, 719.68875pt x 455.7025pt>
+File: images/autenticacion.png Graphic file (type png)
+<use images/autenticacion.png>
+Package pdftex.def Info: images/autenticacion.png  used on input line 333.
+(pdftex.def)             Requested size: 287.87039pt x 182.27776pt.
+ [20 <./images/order10.jpg> <./images/autenticacion.png>]
+<images/auten.png, id=361, 463.7325pt x 198.7425pt>
+File: images/auten.png Graphic file (type png)
+<use images/auten.png>
+Package pdftex.def Info: images/auten.png  used on input line 339.
+(pdftex.def)             Requested size: 185.4897pt x 79.49557pt.
+<images/profiles.png, id=362, 911.405pt x 578.16pt>
+File: images/profiles.png Graphic file (type png)
+<use images/profiles.png>
+Package pdftex.def Info: images/profiles.png  used on input line 352.
+(pdftex.def)             Requested size: 364.55554pt x 231.2599pt.
+
+Overfull \hbox (19.55554pt too wide) in paragraph at lines 352--353
+ [] 
+ []
+
+[21 <./images/auten.png> <./images/profiles.png>]
+<images/search.png, id=368, 513.92pt x 96.36pt>
+File: images/search.png Graphic file (type png)
+<use images/search.png>
+Package pdftex.def Info: images/search.png  used on input line 370.
+(pdftex.def)             Requested size: 205.56435pt x 38.5433pt.
+<images/weight.png, id=369, 226.8475pt x 345.29pt>
+File: images/weight.png Graphic file (type png)
+<use images/weight.png>
+Package pdftex.def Info: images/weight.png  used on input line 373.
+(pdftex.def)             Requested size: 90.73738pt x 138.11354pt.
+<images/design.png, id=370, 128.48pt x 162.6075pt>
+File: images/design.png Graphic file (type png)
+<use images/design.png>
+Package pdftex.def Info: images/design.png  used on input line 383.
+(pdftex.def)             Requested size: 137.9979pt x 174.66815pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.394 				\item[\triangleright]
+                                Con \texit{Theme&Logo} se puede cambiar el l...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.394 				\item[\triangleright]
+                                Con \texit{Theme&Logo} se puede cambiar el l...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.394 				\item[\triangleright]
+                                Con \texit{Theme&Logo} se puede cambiar el l...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.394 				\item[\triangleright]
+                                Con \texit{Theme&Logo} se puede cambiar el l...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Undefined control sequence.
+l.394 				\item[\triangleright] Con \texit
+                                          {Theme&Logo} se puede cambiar el l...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.394 				\item[\triangleright] Con \texit{Theme&
+                                                 Logo} se puede cambiar el l...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+<images/themelogo.png, id=371, 418.56375pt x 463.7325pt>
+File: images/themelogo.png Graphic file (type png)
+<use images/themelogo.png>
+Package pdftex.def Info: images/themelogo.png  used on input line 398.
+(pdftex.def)             Requested size: 100.04768pt x 110.83812pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.403 \item[\triangleright]
+                            Con \textit{Theme&Catalog} se puede comprar y de...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.403 \item[\triangleright]
+                            Con \textit{Theme&Catalog} se puede comprar y de...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.403 \item[\triangleright]
+                            Con \textit{Theme&Catalog} se puede comprar y de...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.403 \item[\triangleright]
+                            Con \textit{Theme&Catalog} se puede comprar y de...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Misplaced alignment tab character &.
+<argument> Theme&
+                 Catalog
+l.403 ...triangleright] Con \textit{Theme&Catalog}
+                                                   se puede comprar y descar...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+<images/themecatalog.png, id=372, 946.53625pt x 580.1675pt>
+File: images/themecatalog.png Graphic file (type png)
+<use images/themecatalog.png>
+Package pdftex.def Info: images/themecatalog.png  used on input line 407.
+(pdftex.def)             Requested size: 378.60779pt x 232.06288pt.
+
+Overfull \hbox (33.60779pt too wide) in paragraph at lines 407--408
+ [] 
+ []
+
+[22 <./images/search.png> <./images/weight.png>] [23 <./images/design.png> <./i
+mages/themelogo.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.411 \item[\triangleright]
+                            Con \textit{Pages} se puede introducir la inform...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.411 \item[\triangleright]
+                            Con \textit{Pages} se puede introducir la inform...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.411 \item[\triangleright]
+                            Con \textit{Pages} se puede introducir la inform...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.411 \item[\triangleright]
+                            Con \textit{Pages} se puede introducir la inform...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+<images/pages.png, id=386, 1606.0pt x 538.01pt>
+File: images/pages.png Graphic file (type png)
+<use images/pages.png>
+Package pdftex.def Info: images/pages.png  used on input line 415.
+(pdftex.def)             Requested size: 401.49902pt x 134.50217pt.
+
+Overfull \hbox (56.49902pt too wide) in paragraph at lines 415--416
+ [] 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.419 \item[\triangleright]
+                            \textit{Positions} permite establecer la posici�...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.419 \item[\triangleright]
+                            \textit{Positions} permite establecer la posici�...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.419 \item[\triangleright]
+                            \textit{Positions} permite establecer la posici�...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.419 \item[\triangleright]
+                            \textit{Positions} permite establecer la posici�...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+<images/positions.png, id=387, 1241.63875pt x 379.4175pt>
+File: images/positions.png Graphic file (type png)
+<use images/positions.png>
+Package pdftex.def Info: images/positions.png  used on input line 423.
+(pdftex.def)             Requested size: 372.4945pt x 113.82613pt.
+
+Overfull \hbox (27.4945pt too wide) in paragraph at lines 423--424
+ [] 
+ []
+
+[24 <./images/themecatalog.png> <./images/pages.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.427 \item[\triangleright]
+                            \textit{Image Settings} permite personalizar la ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.427 \item[\triangleright]
+                            \textit{Image Settings} permite personalizar la ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.427 \item[\triangleright]
+                            \textit{Image Settings} permite personalizar la ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.427 \item[\triangleright]
+                            \textit{Image Settings} permite personalizar la ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.431 \item[\triangleright]
+                            \textit{Link Widget} sirve para introducir widge...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.431 \item[\triangleright]
+                            \textit{Link Widget} sirve para introducir widge...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.431 \item[\triangleright]
+                            \textit{Link Widget} sirve para introducir widge...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.431 \item[\triangleright]
+                            \textit{Link Widget} sirve para introducir widge...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+<images/catalog.png, id=394, 180.675pt x 209.78375pt>
+File: images/catalog.png Graphic file (type png)
+<use images/catalog.png>
+Package pdftex.def Info: images/catalog.png  used on input line 441.
+(pdftex.def)             Requested size: 68.99895pt x 80.11557pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.445 \item[\triangleright]
+                            \textibf{Productos:} Se pueden añadir o elimina...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.445 \item[\triangleright]
+                            \textibf{Productos:} Se pueden añadir o elimina...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.445 \item[\triangleright]
+                            \textibf{Productos:} Se pueden añadir o elimina...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.445 \item[\triangleright]
+                            \textibf{Productos:} Se pueden añadir o elimina...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Undefined control sequence.
+l.445 \item[\triangleright] \textibf
+                                    {Productos:} Se pueden añadir o elimina...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.451 				\item[\triangleright]
+                                \textbf{Categorías:} Se pueden añadir o el...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.451 				\item[\triangleright]
+                                \textbf{Categorías:} Se pueden añadir o el...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.451 				\item[\triangleright]
+                                \textbf{Categorías:} Se pueden añadir o el...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.451 				\item[\triangleright]
+                                \textbf{Categorías:} Se pueden añadir o el...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.455 				\item[\triangleright]
+                                \textbf{Atributos y Características:} Herra...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.455 				\item[\triangleright]
+                                \textbf{Atributos y Características:} Herra...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.455 				\item[\triangleright]
+                                \textbf{Atributos y Características:} Herra...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.455 				\item[\triangleright]
+                                \textbf{Atributos y Características:} Herra...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.459 				\item[\triangleright]
+                                \textbf{Marcas y Proveedores:} Proporciona l...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.459 				\item[\triangleright]
+                                \textbf{Marcas y Proveedores:} Proporciona l...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.459 				\item[\triangleright]
+                                \textbf{Marcas y Proveedores:} Proporciona l...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.459 				\item[\triangleright]
+                                \textbf{Marcas y Proveedores:} Proporciona l...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.463 				\item[\triangleright]
+                                \textbf{Descuentos:} Proporciona integració...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.463 				\item[\triangleright]
+                                \textbf{Descuentos:} Proporciona integració...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.463 				\item[\triangleright]
+                                \textbf{Descuentos:} Proporciona integració...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.463 				\item[\triangleright]
+                                \textbf{Descuentos:} Proporciona integració...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.467 				\item[\triangleright]
+                                \textbf{Stocks:} Proporciona integración co...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.467 				\item[\triangleright]
+                                \textbf{Stocks:} Proporciona integración co...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.467 				\item[\triangleright]
+                                \textbf{Stocks:} Proporciona integración co...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.467 				\item[\triangleright]
+                                \textbf{Stocks:} Proporciona integración co...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[25 <./images/positions.png> <./images/catalog.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.475 				\item[\triangleright]
+                                \textbf{Carrito de la compra:} Desde el inic...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.475 				\item[\triangleright]
+                                \textbf{Carrito de la compra:} Desde el inic...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.475 				\item[\triangleright]
+                                \textbf{Carrito de la compra:} Desde el inic...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.475 				\item[\triangleright]
+                                \textbf{Carrito de la compra:} Desde el inic...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+<images/carrito.png, id=403, 973.6375pt x 321.2pt>
+File: images/carrito.png Graphic file (type png)
+<use images/carrito.png>
+Package pdftex.def Info: images/carrito.png  used on input line 477.
+(pdftex.def)             Requested size: 389.44809pt x 128.47772pt.
+
+Overfull \hbox (69.44812pt too wide) in paragraph at lines 477--478
+ [] 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.482 				\item[\triangleright]
+                                \textbf{Wishlist:} Al comenzar a usar Presta...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.482 				\item[\triangleright]
+                                \textbf{Wishlist:} Al comenzar a usar Presta...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.482 				\item[\triangleright]
+                                \textbf{Wishlist:} Al comenzar a usar Presta...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.482 				\item[\triangleright]
+                                \textbf{Wishlist:} Al comenzar a usar Presta...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+<images/wishlist.png, id=406, 548.0475pt x 447.6725pt>
+File: images/wishlist.png Graphic file (type png)
+<use images/wishlist.png>
+Package pdftex.def Info: images/wishlist.png  used on input line 486.
+(pdftex.def)             Requested size: 219.2151pt x 179.06583pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.491 				\item[\triangleright]
+                                \textbf{Devoluciones:} Dentro del menú late...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.491 				\item[\triangleright]
+                                \textbf{Devoluciones:} Dentro del menú late...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.491 				\item[\triangleright]
+                                \textbf{Devoluciones:} Dentro del menú late...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.491 				\item[\triangleright]
+                                \textbf{Devoluciones:} Dentro del menú late...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[26 <./images/carrito.png> <./images/wishlist.png>]
+<images/devoluciones.png, id=413, 200.75pt x 196.735pt>
+File: images/devoluciones.png Graphic file (type png)
+<use images/devoluciones.png>
+Package pdftex.def Info: images/devoluciones.png  used on input line 493.
+(pdftex.def)             Requested size: 80.29857pt x 78.6926pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.498 				\item[\triangleright]
+                                \textbf{Métodos de pago:} Inicialmente solo...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\llap #1->\hb@xt@ \z@ {\hss #1}
+                               
+l.498 				\item[\triangleright]
+                                \textbf{Métodos de pago:} Inicialmente solo...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.498 				\item[\triangleright]
+                                \textbf{Métodos de pago:} Inicialmente solo...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.498 				\item[\triangleright]
+                                \textbf{Métodos de pago:} Inicialmente solo...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+<images/pagos.png, id=414, 474.77374pt x 217.81375pt>
+File: images/pagos.png Graphic file (type png)
+<use images/pagos.png>
+Package pdftex.def Info: images/pagos.png  used on input line 500.
+(pdftex.def)             Requested size: 189.90613pt x 87.12395pt.
+<images/flujo.png, id=417, 1606.0pt x 290.08376pt>
+File: images/flujo.png Graphic file (type png)
+<use images/flujo.png>
+Package pdftex.def Info: images/flujo.png  used on input line 511.
+(pdftex.def)             Requested size: 401.49902pt x 72.52075pt.
+
+Overfull \hbox (56.49902pt too wide) in paragraph at lines 511--512
+ [] 
+ []
+
+[27 <./images/devoluciones.png> <./images/pagos.png> <./images/flujo.png>]
+<images/personalizacion.png, id=428, 601.24625pt x 781.92125pt>
+File: images/personalizacion.png Graphic file (type png)
+<use images/personalizacion.png>
+Package pdftex.def Info: images/personalizacion.png  used on input line 533.
+(pdftex.def)             Requested size: 300.62238pt x 390.95967pt.
+
+[28] [29 <./images/personalizacion.png>]
+<images/integracion.png, id=438, 984.67876pt x 494.84875pt>
+File: images/integracion.png Graphic file (type png)
+<use images/integracion.png>
+Package pdftex.def Info: images/integracion.png  used on input line 546.
+(pdftex.def)             Requested size: 393.86452pt x 197.93599pt.
+
+Overfull \hbox (48.86452pt too wide) in paragraph at lines 546--547
+ [] 
+ []
+
+[30 <./images/integracion.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 569--570
+[]\OT1/cmr/m/it/10 Certificado SSL pa-ra Pres-tas-hop\OT1/cmr/m/n/10 , [][]$\OT
+1/cmtt/m/n/10 https : / / guiadev . com /
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 570--571
+[]\OT1/cmr/m/it/10 Seguridad y fia-bi-li-dad en Pres-tas-hop\OT1/cmr/m/n/10 , [
+][]$\OT1/cmtt/m/n/10 https : / / www . prestashop . com /
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 571--572
+[]\OT1/cmr/m/it/10 Informaci^^Son y usos del fi-che-ro .htac-cess\OT1/cmr/m/n/1
+0 , [][]$\OT1/cmtt/m/n/10 https : / / ticket . cdmon .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
+\OT1/cmtt/m/n/10 com / es / support / solutions / articles / 7000006237-[]infor
+maci % C3 %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--573
+[]\OT1/cmr/m/it/10 Cookies\OT1/cmr/m/n/10 , [][]$\OT1/cmtt/m/n/10 https : / / e
+s . wikipedia . org / wiki / Cookie _ (inform % C3 %
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 573--574
+[]\OT1/cmr/m/it/10 Legislaci^^Son eu-ro-pea de co-okies\OT1/cmr/m/n/10 , [][]$\
+OT1/cmtt/m/n/10 https : / / privacypolicies . com / blog /
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 574--575
+[]\OT1/cmr/m/it/10 Link Wid-get en Pres-tas-hop\OT1/cmr/m/n/10 , [][]$\OT1/cmtt
+/m/n/10 https : / / zemez . io / prestashop / support /
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 575--576
+[]\OT1/cmr/m/it/10 Lista de de-seos en Pres-tas-hop\OT1/cmr/m/n/10 , [][]$\OT1/
+cmtt/m/n/10 https : / / addons . prestashop . com / en /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
+\OT1/cmtt/m/n/10 wishlist-[]gift-[]card / 26835-[]wishlist-[]buy-[]later-[]save
+-[]for-[]later .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
+\OT1/cmtt/m/n/10 html ? utm _ source = back-[]office & utm _ medium = push-[]ad
+dons & utm _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--577
+\OT1/cmtt/m/n/10 com / en / wishlist-[]gift-[]card / 23903-[]advanced-[]wishlis
+t . html &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--577
+\OT1/cmtt/m/n/10 utm _ source = back-[]office & utm _ medium = search & utm _ c
+ampaign =
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 577--578
+[]\OT1/cmr/m/it/10 Pago por tar-je-ta en Pres-tas-hop\OT1/cmr/m/n/10 , [][]$\OT
+1/cmtt/m/n/10 https : / / addons . prestashop . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--578
+\OT1/cmtt/m/n/10 en / other-[]payment-[]methods / 18635-[]wk-[]payment-[]by-[]c
+redit-[]check .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--578
+\OT1/cmtt/m/n/10 html & utm _ source = back-[]office & utm _ medium = search & 
+utm _ campaign =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--579
+[]\OT1/cmr/m/it/10 Pago se-gu-ro y de-vo-lu-cio-nes\OT1/cmr/m/n/10 , [][]$\OT1/
+cmtt/m/n/10 https : / / addons .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--579
+\OT1/cmtt/m/n/10 prestashop . com / es / pago-[]tarjeta-[]carteras-[]digitales 
+/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
+[]\OT1/cmr/m/it/10 Comentarios con fo-tos\OT1/cmr/m/n/10 , [][]$\OT1/cmtt/m/n/1
+0 https : / / addons .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
+\OT1/cmtt/m/n/10 prestashop . com / es / comentarios-[]clientes /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
+\OT1/cmtt/m/n/10 22373-[]comentarios-[]avanzados-[]con-[]fotos-[]google-[]rich-
+[]snippets .
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
+[]\OT1/cmr/m/it/10 Funcionalidades de Pres-tas-hop\OT1/cmr/m/n/10 , [][]$\OT1/c
+mtt/m/n/10 https : / / www . prestashop . com / es /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--582
+[]\OT1/cmr/m/it/10 Notificaciones\OT1/cmr/m/n/10 , [][]$\OT1/cmtt/m/n/10 https 
+: / / addons . prestashop . com / es /
+ []
+
+
+Overfull \hbox (68.30215pt too wide) in paragraph at lines 581--582
+\OT1/cmtt/m/n/10 emails-[]notificaciones / 22787-[]alertas-[]notificaciones-[]s
+ms-[]email-[]y-[]voz-[]afilnet .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--583
+[]\OT1/cmr/m/it/10 Integraci^^Son con Pres-tas-hop\OT1/cmr/m/n/10 , [][]$\OT1/c
+mtt/m/n/10 https : / / addons . prestashop . com / es /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--584
+[]\OT1/cmr/m/it/10 texto\OT1/cmr/m/n/10 , [][]$\OT1/cmtt/m/n/10 http : / / doc 
+. prestashop . com / plugins / servlet / mobile #
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 589.
+[32]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 589.
+ (./Memoria.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 589.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 589.
+Package rerunfilecheck Info: File `Memoria.out' has not changed.
+(rerunfilecheck)             Checksum: 8E30B2937D2068B5C88C702FCA941041;2764.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 589.
+ ) 
+Here is how much of TeX's memory you used:
+ 8192 strings out of 492982
+ 121533 string characters out of 6134895
+ 218657 words of memory out of 5000000
+ 11545 multiletter control sequences out of 15000+600000
+ 8409 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,8n,38p,1047b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmtt10.pfb>
+Output written on Memoria.pdf (33 pages, 2066452 bytes).
+PDF statistics:
+ 561 PDF objects out of 1000 (max. 8388607)
+ 426 compressed objects within 5 object streams
+ 94 named destinations out of 1000 (max. 500000)
+ 586 words of extra memory for PDF output out of 10000 (max. 10000000)
+

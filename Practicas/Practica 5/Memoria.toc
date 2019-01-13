@@ -1,0 +1,20 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\IeC {\'I}ndice general}{1}{Doc-Start}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Objetivos de la Pr\IeC {\'a}ctica}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Funcionalidad de Alfresco}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Reparto de Tareas}{3}{subsection.1.3}
+\contentsline {section}{\numberline {2}Integraci\IeC {\'o}n}{3}{section.2}
+\contentsline {section}{\numberline {3}Tareas}{3}{section.3}
+\contentsline {section}{\numberline {4}Gesti\IeC {\'o}n de documentos}{9}{section.4}
+\contentsline {subsection}{\numberline {4.1}Creaci\IeC {\'o}n de un espacio de trabajo}{9}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Creaci\IeC {\'o}n de usuarios}{11}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Permitir versionado del documento}{15}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Informaci\IeC {\'o}n del hist\IeC {\'o}rico de las versiones}{19}{subsection.4.4}
+\contentsline {section}{\numberline {5}Reglas}{21}{section.5}
+\contentsline {subsection}{\numberline {5.1}Creaci\IeC {\'o}n de regla de conversi\IeC {\'o}n}{21}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Probar regla}{24}{subsection.5.2}
+\contentsline {section}{\numberline {6}Conclusiones}{25}{section.6}
+\contentsline {subsection}{\numberline {6.1}Conclusiones personales individuales}{25}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Conclusiones grupales}{26}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Relaci\IeC {\'o}n con teor\IeC {\'\i }a}{27}{subsection.6.3}
